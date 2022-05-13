@@ -1,0 +1,36 @@
+body {
+    font-family: 'Comfortaa', cursive;
+}
+
+h4 {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding-left: 2rem;
+    background: rgb(38, 89, 114);
+    padding: 10px;
+    color: white;
+}
+
+p {
+    padding-left: 2rem;
+}
+
+.info {
+    background-image: radial-gradient(circle, rgb(77, 168, 172), rgb(84, 132, 139));
+}
+
+.ladob {
+    background: #f0f1f1;
+}
+
+.menu2 {
+    background: cadetblue;
+}
+
+.footer {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 12px;
+    background: cadetblue;
+    color: white;
+    width: 100%;
+}
